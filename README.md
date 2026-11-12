@@ -30,12 +30,6 @@ Desde la administración de la flota hasta el seguimiento de reservas, clientes 
 
 La aplicación se encuentra actualmente en desarrollo. Se irán incorporando actualizaciones a medida que avance la implementación de sus funcionalidades.
 
-<!--
-<p align="center">
-  <img src="assets/screenshots/dashboard.png" width="90%" alt="Panel principal de Flotala"/>
-</p>
--->
-
 ## Funcionalidades
 
 Las principales funcionalidades contempladas para la plataforma son:
@@ -44,7 +38,7 @@ Las principales funcionalidades contempladas para la plataforma son:
 - **Reservas:** creación, seguimiento y organización de reservas mediante un calendario.
 - **Gestión de clientes:** registro de información y seguimiento del historial de alquileres.
 - **Operaciones de alquiler:** registro de entregas, devoluciones y estado de los vehículos.
-- **Precios y pagos:** configuración de tarifas, señas, pagos y saldos pendientes.
+- **Precios y pagos:** configuración de tarifas y pagos.
 - **Estadísticas:** indicadores e información sobre el rendimiento del negocio.
 - **Usuarios y permisos:** administración de empleados y asignación de diferentes niveles de acceso.
 
