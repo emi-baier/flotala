@@ -1,7 +1,7 @@
 # Flotala
 
 <p align="center">
-  <img src="assets/logo.png" alt="Logo de Flotala" width="180"/>
+  <img src="flotala/assets/logo.png" alt="Logo de Flotala" width="180"/>
 </p>
 
 <h3 align="center">Simplificá la gestión de tu rentadora.</h3>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/login.png" />
+  <img src="flotala/assets/screenshots/login.png" />
   <img src="assets/screenshots/dashboard.png" />
   <img src="assets/screenshots/vehiculos.png" />
 </p>
