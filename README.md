@@ -59,3 +59,6 @@ Las tecnologías y herramientas que están siendo utilizadas para el desarrollo 
 Flotala es un proyecto independiente actualmente en etapa de diseño e implementación.
 
 La plataforma todavía no se encuentra disponible para uso comercial.
+
+Podés ver el proyecto más a detalle en [**flotala.com**](https://flotala.com)
+
